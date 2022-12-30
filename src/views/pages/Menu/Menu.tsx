@@ -28,7 +28,7 @@ export const Menu = () => {
     }
 
     return (
-        <PageContainer>
+        <PageContainer >
             <div>
                 <h1>Menu</h1>
                 {renderMenu(menu)}
